@@ -1,2 +1,2 @@
 # NetflixClone
-Netflix Clone  - MERN Stack
+Netflix Clone  - made by using MERN Stack
